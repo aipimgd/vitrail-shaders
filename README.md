@@ -2,7 +2,7 @@
   <img src="common/src/main/resources/vitrail.png" width="128" alt="">
 </p>
 
-<h1 align="center">Vitrail Shaders</h1>
+<h1 align="center">Vitral Shaders</h1>
 
 <p align="center">
   OptiFine-format shader packs, on Minecraft's native Vulkan renderer.
